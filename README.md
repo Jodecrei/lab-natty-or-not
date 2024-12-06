@@ -20,18 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Airsoft, um esporte que ensina respeito, disciplina e honestidade
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O intuíto desse projeto é utilizar o leonardo.ai para gerar uma imagem com o seguinte prompt: (Jorgadores de airsoft, durante uma partida em cenário em aberto com construções e mata. Nessa imagem deve conter diversas pessoas em times adversários, onde o objetivo deles é alcançar uma bandeira na cor azul asteada em um mastro no centro do cenário. A ponta das armas deve ser na cor vermelha.)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Nesse projeto foi utilizado a ferramenta leonardo.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Sou um entusiasta do Airsoft. Com isso, criei uma imagem no leonardo.ai sobre o tema.
 
 ## 🚀 Resultados
+(https://github.com/user-attachments/assets/e9713d8e-40ea-416d-9301-d9551a5425aa)
+
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
